@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/v1k9xiWy7bTEwOSPPz3w+98JiN4rzvh+e8xMZN7jyM=",
+  "Source": "martin.gobert.FaceDetection.WebApi",
+  "BasePath": "_content/martin.gobert.FaceDetection.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

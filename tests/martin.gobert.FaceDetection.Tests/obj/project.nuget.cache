@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kn16w97QLrjWIen0I/UFb6qUsKI/2VPWikquLXnRXM6HSRQYfgC9UMLYquwO9qtK23xZaseYNry0Foan3PW4OA==",
+  "dgSpecHash": "18NC0dFcNrwjGzzH3rld1NDZ76QRpWDDteew4hwBTak1Q+nfePpYpDS2Mf3xuoHnm8yjVs0aLWIbEYawCo+kTA==",
   "success": true,
   "projectFilePath": "/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/tests/martin.gobert.FaceDetection.Tests/martin.gobert.FaceDetection.Tests.csproj",
   "expectedPackageFiles": [
@@ -95,7 +95,9 @@
     "/Users/martingobert/.nuget/packages/xunit.core/2.4.2/xunit.core.2.4.2.nupkg.sha512",
     "/Users/martingobert/.nuget/packages/xunit.extensibility.core/2.4.2/xunit.extensibility.core.2.4.2.nupkg.sha512",
     "/Users/martingobert/.nuget/packages/xunit.extensibility.execution/2.4.2/xunit.extensibility.execution.2.4.2.nupkg.sha512",
-    "/Users/martingobert/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+    "/Users/martingobert/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
   ],
   "logs": []
 }

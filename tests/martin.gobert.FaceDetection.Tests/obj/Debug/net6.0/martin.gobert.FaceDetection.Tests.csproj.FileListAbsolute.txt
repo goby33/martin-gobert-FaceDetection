@@ -1,0 +1,5 @@
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/tests/martin.gobert.FaceDetection.Tests/obj/Debug/net6.0/martin.gobert.FaceDetection.Tests.csproj.AssemblyReference.cache
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/tests/martin.gobert.FaceDetection.Tests/obj/Debug/net6.0/martin.gobert.FaceDetection.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/tests/martin.gobert.FaceDetection.Tests/obj/Debug/net6.0/martin.gobert.FaceDetection.Tests.AssemblyInfoInputs.cache
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/tests/martin.gobert.FaceDetection.Tests/obj/Debug/net6.0/martin.gobert.FaceDetection.Tests.AssemblyInfo.cs
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/tests/martin.gobert.FaceDetection.Tests/obj/Debug/net6.0/martin.gobert.FaceDetection.Tests.csproj.CoreCompileInputs.cache

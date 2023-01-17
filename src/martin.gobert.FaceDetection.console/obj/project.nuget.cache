@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "QF/BrYzc6WOztKoUdbROjSJGcKDMYAF4KDVvTLRqNN8BRrhykgc+VdRbejsOZU3nox7J6Kw/rEEilzcGYRnsDw==",
+  "dgSpecHash": "RHkRDhD9taFghC2OaisRRiwyZoTBaYMNk3se3UkOAzrTbqp1rQR+MznCTqBrkIALwVY+vFiuwoPlhBQ/vneNlQ==",
   "success": true,
-  "projectFilePath": "/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection.console/martin.gobert.FaceDetection.console.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection.console/martin.gobert.FaceDetection.console.csproj",
+  "expectedPackageFiles": [
+    "/Users/martingobert/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/opencvsharp4/4.6.0.20220608/opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/opencvsharp4.extensions/4.6.0.20220608/opencvsharp4.extensions.4.6.0.20220608.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/opencvsharp4.runtime.osx.10.15-x64/4.6.0.20220608/opencvsharp4.runtime.osx.10.15-x64.4.6.0.20220608.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/system.drawing.common/5.0.3/system.drawing.common.5.0.3.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/martingobert/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

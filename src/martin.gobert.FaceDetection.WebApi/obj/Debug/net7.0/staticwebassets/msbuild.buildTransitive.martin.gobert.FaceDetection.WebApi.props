@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/martin.gobert.FaceDetection.WebApi.props" />
+</Project>

@@ -1,0 +1,12 @@
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/bin/Debug/net6.0/martin.gobert.FaceDetection.deps.json
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/bin/Debug/net6.0/martin.gobert.FaceDetection.dll
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/bin/Debug/net6.0/martin.gobert.FaceDetection.pdb
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/martin.gobert.FaceDetection.csproj.AssemblyReference.cache
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/martin.gobert.FaceDetection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/martin.gobert.FaceDetection.AssemblyInfoInputs.cache
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/martin.gobert.FaceDetection.AssemblyInfo.cs
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/martin.gobert.FaceDetection.csproj.CoreCompileInputs.cache
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/martin.gobert.FaceDetection.dll
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/refint/martin.gobert.FaceDetection.dll
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/martin.gobert.FaceDetection.pdb
+/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection/obj/Debug/net6.0/ref/martin.gobert.FaceDetection.dll
