@@ -1,0 +1,28 @@
+name: Test & Build
+on:
+  push:
+    branches:
+      - main
+jobs:
+  publish:
+    name: test & build
+    runs-on: windows-latest # not a fan but I know the library works on windows 
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup dotnet
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: 6.0.404
+
+      - name: Run tests
+        run: dotnet test
+
+      - name: Build executable
+        run: dotnet publish ./src/martin.gobert.FaceDetection.Console/martin.gobert.FaceDetection.Console.csproj --self-contained true --output ./win-x64/facedetection.exe -c Release -r win-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true /p:PublishReadyToRun=true
+
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Publis FaceDetection Console
+          path: ./win-x64/facedetection.exe

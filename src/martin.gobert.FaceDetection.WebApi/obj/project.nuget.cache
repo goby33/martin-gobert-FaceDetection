@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P2OcVCQNpX1RgzSZQoYgeu5NDQFotQhlVvtmRSi5uPNizkaBRjMoC6Aem2aPhkIG+i7OMAqOSgk8XKcSQIKDMw==",
+  "dgSpecHash": "vTkFBxofGOXnkcRw3Bx1S0oDJovQvMIkf7a/pVX3WF/ztvtr6jOlTauxujvGPyqISvOxMCbTmGGPUeOhxGyQYA==",
   "success": true,
   "projectFilePath": "/Users/martingobert/Travails/Partiel/martin.gobert.FaceDetection/src/martin.gobert.FaceDetection.WebApi/martin.gobert.FaceDetection.WebApi.csproj",
   "expectedPackageFiles": [
@@ -176,10 +176,7 @@
     "/Users/martingobert/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/martingobert/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/martingobert/.nuget/packages/system.xml.xpath/4.3.0/system.xml.xpath.4.3.0.nupkg.sha512",
-    "/Users/martingobert/.nuget/packages/system.xml.xpath.xdocument/4.3.0/system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
-    "/Users/martingobert/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "/Users/martingobert/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "/Users/martingobert/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.13/microsoft.netcore.app.host.osx-x64.6.0.13.nupkg.sha512"
+    "/Users/martingobert/.nuget/packages/system.xml.xpath.xdocument/4.3.0/system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
