@@ -1,0 +1,33 @@
+name: .NET
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: 6.0.x
+    - run: dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover /p:CoverletOutput=./coverage/opencover.xml
+    - run: dotnet publish ./src/martin.gobert.FaceDetection.WebApi/martin.gobert.FaceDetection.WebApi.csproj --self-contained true --output ./osx-x64/fibonacci -c Release -r osx-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true /p:PublishReadyToRun=true
+    
+    - name: Restore dependencies
+      run: dotnet restore
+    - name: Build
+      run: dotnet build --no-restore
+    - name: Test
+      run: dotnet test --no-build --verbosity normal
+    - name: Upload WebApp1 Build Artifact
+      uses: actions/upload-artifact@v2
+      with: 
+        name: Publish osx-x64 Fibonacci    
+        path: ./osx-x64/fibonacci
